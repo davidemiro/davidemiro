@@ -22,6 +22,12 @@
 
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/davidemiro?theme=dark)
+
+
+
+
+
 
 
 
