@@ -8,7 +8,7 @@
 
 <h2  align="center"> 🎯 Projects </h2>
 
-* 💎 [`vlm-vqa`](https://github.com/davidemiro/vlm-vqa): Implementation of a PrefixLM Visual Language Model with Gemma-2-2b and DinoV2. Multi-GPU training with DeepSpeed and FSDP. HELM evaluation.
+* 💎 [`vlm-vqa`](https://github.com/davidemiro/vlm-vqa): Implementation of a Visual Language Model with Gemma-2-2b and DinoV2. Multi-GPU training with DeepSpeed and FSDP. HELM evaluation.
 * 🤖 [`kan-cuda`](https://github.com/davidemiro/kan-cuda): CUDA and C++ implementation of Kolmogorov–Arnold Networks. PyTorch C++ extension implementation.
 * 🏎️ [`golang-loabalancer`](https://github.com/davidemiro/load-balancer-challenge-go): Development of a load balancer that takes advantage of Go’s built-in concurrency features.
 * 🎯 [`llm-detect-ai-generated-text`](https://github.com/davidemiro/llm-detect-ai-generated-text-kaggle-competition.git): Training a classification head on BERT large backbone.
